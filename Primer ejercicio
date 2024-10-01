@@ -1,0 +1,8 @@
+public class MainClass {
+  public static void main(String[] args) {
+    
+    int suma = 5+4+3+2+1;
+    System.out.println(suma);
+
+  }
+}
