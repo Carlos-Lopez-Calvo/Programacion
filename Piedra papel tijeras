@@ -1,0 +1,29 @@
+public class MainClass {
+  public static void main(String[] args) {
+    
+    String piedra = "piedra";
+    String papel = "papel";
+    String tijera = "tijera";
+    String P1 = piedra;
+    String P2 = papel;
+    
+    if (P1 == "piedra" && P2 == "papel") {
+        System.out.println("P2 Gana!!");}
+    else if (P1 == "piedra" && P2 == "tijera"){
+        System.out.println("P1 Gana!!");}
+    else if (P1 == "piedra" && P2 == "piedra"){
+        System.out.println("Empate!!");}
+    else if (P1 == "papel" && P2 == "piedra"){
+        System.out.println("P1 Gana!!");}
+    else if (P1 == "papel" && P2 == "tijera"){
+        System.out.println("P2 Gana!!");}
+    else if (P1 == "papel" && P2 == "papel"){
+        System.out.println("Empate!!");}
+    else if (P1 == "tijera" && P2 == "piedra"){
+        System.out.println("P2 Gana!!");}
+    else if (P1 == "tijera" && P2 == "papel"){
+        System.out.println("P1 Gana!!");}
+    else if (P1 == "tijera" && P2 == "tijera"){
+        System.out.println("Empate!!");}
+  }
+}
