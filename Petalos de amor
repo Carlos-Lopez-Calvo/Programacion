@@ -11,5 +11,6 @@ tambien esta proporcionado por code wars//
 // Y a la hora de debolver el dato usaremos retrun, ponemos la variable array que hemos creado y le decimos que coga un numero de la variable nb_petals que llega hasta 6
 ya que es el numero de frases que hay en el Array.
         return petalos[nb_petals % 6];
+// para que funcione en codewars: return petalos[(nb_petals - 1) % 6] //
     }
 }
