@@ -1,4 +1,4 @@
-Este es mi resultado del problema
+//Este es mi resultado del problema//
 
 
 // Primero definimos una clase llamada sid, esto esta proporcionado por el ejercicio de code wars//
