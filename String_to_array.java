@@ -1,5 +1,5 @@
-Este codigo combierte una variable string en array separandolo por un espacio con la funcion .split(" ")
-
+//Este codigo combierte una variable string en array separandolo por un espacio con la funcion .split(" ")
+//
 
 public class Solution {
 
